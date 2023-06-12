@@ -1,0 +1,32 @@
+body {
+    font-family: monospace;
+}
+
+* {
+    outline: 1px dotted red;
+}
+
+.name {
+    text-align: center;
+    font-size: 32px;
+}
+
+.recipes {
+    font-size: 18px;
+}
+
+p {
+    background-color: green;
+}
+
+ul {
+    display: flex;
+}
+
+ul li {
+    margin: auto;
+}
+
+ol {
+    background-color: red;
+}
